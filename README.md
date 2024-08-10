@@ -9,6 +9,6 @@ feel free to reach out to maximilian[dot]schwabe[at]mailbox[dot]tu-dresden[dot]d
 # how to run an evolutionary simulation
 
 <ol>
-    <li>adjust parameters (population size, network size, etc.) by editing **run_evolution.py**</li>
-    <li>execute python script **run_evolution.py**</li>
+    <li>adjust parameters (population size, network size, etc.) by editing <strong>run_evolution.py</strong></li>
+    <li>execute python script <strong>run_evolution.py</strong></li>
 </ol>
